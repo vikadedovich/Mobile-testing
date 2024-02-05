@@ -1,80 +1,86 @@
-New Android 14 features
-1. First of all the name. The Name is Upside Down Cake
-2. Easter edd - all about space travel
-3. Fonts go even larger
-Google specifically notes that users can now scale font sizes up to 200% in Android 14 versus Android 13, Which topped out at 130% on Pixels. Interestingly, the company says it’ll also use non-linear font scaling so that text that’s already large won’t see further size increases. For example, a heading might not see a size increase, but smaller text below the heading could grow larger.
+# New Android 14 features
+### 1. First of all the name. The Name is Upside Down Cake
 
-4. Notification flashes
-If you are hard of hearing, Android 14 will allow you to see notifications by using the camera flash and display to light up. You can toggle these settings in the Accessibility section. Your choice is having the camera flash, the display flash, or both at the same time. With the display flash, you can also choose the color of the flash, which is nice. However, you can’t alter the way the flashes occur (pulse, flash, wave, etc.) and can’t create per-app customizations. The feature is either “on” or “off.”
+### 2. Easter edd - all about space travel
 
-5. Language-related improvements
-Android 14 also brings tweaks related to language, starting with better support for gendered languages (e.g., French and German) via the Grammatical Inflection API.
+### 3. Fonts go even larger
 
-Another language-related tweak is that developers can now take advantage of more granular per-app language controls. These controls now enable app developers to “customize the language list per region, run A/B experiments, and provide updated locales if your app utilizes server-side localization pushes.”
+In Android 14, Google allows users to scale font sizes up to 200%, a notable increase from Android 13, which had a maximum of 130% on Pixels. Additionally, the font scaling is non-linear, meaning already large text won't get even larger. For instance, headings might remain the same size, while smaller text underneath could become larger.
 
-6. Regional preferences
+### 4. Notification flashes
+
+In Android 14, if you have hearing difficulties, you can get notifications through the camera flash and display, lighting up for your attention. These settings are adjustable in the Accessibility section. You can choose to use the camera flash, display flash, or both simultaneously. For the display flash, you also have the option to pick the color. However, you can't customize how the flashes happen (like pulsing, flashing, waving, etc.) or create specific settings for each app. The feature is a straightforward toggle between "on" or "off".
+
+### 5. Language-related improvements
+
+In Android 14, there are improvements in language support. It offers better handling of gendered languages like French and German through the Grammatical Inflection API.
+
+Additionally, developers can now have more specific language controls for each app. This allows them to customize language lists per region, conduct A/B experiments, and update locales if the app uses server-side localization pushes.
+
+### 6. Regional preferences
+
 If you’re a European living in the US, you might want to use Euro-style measurements, calendars, and other systems. With Android 14, that will be possible. You’ll be able to make temperature units Celsius and make the first day of the week Monday, for example.
 
-7. Android 14 battery features and tweaks
-Android 14 brings a variety of changes in an effort to improve battery life. You shouldn’t expect anything massive like Android Marshmallow’s Doze Mode or an extreme battery saver, but these under-the-hood changes should still yield major savings.
+### 7. Android 14 battery features and tweaks
 
-8. Google tinkers with Android’s inner workings
-For starters, Google is tweaking two Android APIs (foreground services and job scheduler) with a view to improving efficiency for tasks like background activities and downloading large files.
+Android 14 introduces several changes to enhance battery life. While it may not bring major features like Android Marshmallow's Doze Mode or an extreme battery saver, these behind-the-scenes adjustments are expected to result in significant power savings.
 
-“The user-initiated data transfer job will make managing user-initiated downloads and uploads easier, particularly when they require constraints such as downloading on Wi-Fi only,” Google says of its tweaks related to file downloads/uploads.
+### 8. Google tinkers with Android’s inner workings
 
-The battery life focus doesn’t end here, as Android 14 also improves the platform’s internal broadcast system for better efficiency.
+In Android 14, Google is making changes to two key features: foreground services and job scheduler, aiming to enhance efficiency for background activities and downloading large files. The adjustments aim to simplify the management of user-initiated downloads and uploads, especially when specific constraints like Wi-Fi-only downloading are needed. Additionally, Android 14 focuses on improving the internal broadcast system to enhance overall efficiency and contribute to better battery life.
 
-9. A new permission for alarms
-Google is implementing a “schedule exact alarm” permission, requiring all newly installed apps that aren’t clocks or calendars to request this permission from users. The company explained this addition by saying that precise alarm functionality can affect battery life and other resources.
+### 9. A new permission for alarms
 
-10. A familiar stat returns
-One returning feature we’re happy to see is the “screen time since last full charge” feature. The option is back in the battery settings menu after it was hidden in Android 12 in favor of your battery usage over the last 24 hours. This returning option is handy if you want a more accurate idea of how long your phone actually lasts.
+Google is introducing a "schedule exact alarm" permission, and now, all newly installed apps, excluding clocks or calendars, need to ask users for this permission. Google's reasoning behind this change is that precise alarm functionality can impact battery life and other device resources.
 
-11. Android 14 privacy features and changes
+### 10. A familiar stat returns
+
+A welcomed comeback in Android 14 is the "screen time since last full charge" feature. It has returned to the battery settings menu after being hidden in Android 12, where the focus was on battery usage over the last 24 hours. This option is useful for those who want a more precise understanding of their phone's actual battery life.
+
+### 11. Android 14 privacy features and changes
+
 Android 14 has a ton of features related to privacy and security. We’ve got all the significant changes here, some of which could draw a lot of controversy.
 
-12. Say goodbye to installing super-old apps
-One of the biggest differences between Android 14 vs Android 13 is that the new update now blocks older Android apps from being installed. Google says this change specifically targets apps built for Android 5.1 Lollipop APIs and older.
+### 12. Say goodbye to installing super-old apps
 
-This is a pretty big change, with the search giant reasoning that malware often targets older API levels that don’t take advantage of more modern security and privacy protections.
+In Android 14, there's a significant change as the update now prevents the installation of older Android apps. Specifically, this affects apps designed for Android 5.1 Lollipop APIs and older. Google explains this shift by highlighting that malware often targets older API levels lacking modern security and privacy features.
 
-This tweak means that many abandoned apps (e.g., old games and niche apps) can’t be installed on Android 14 phones. If there’s any consolation, it’s that Google says older apps will remain on your device if you upgrade to Android 14. But this obviously won’t be the case for devices launching with Android 14 out-of-the-box.
+This adjustment implies that many abandoned apps, such as old games and niche applications, won't be installable on Android 14 devices. Though there's a silver lining – Google mentions that older apps will stay on your device if you upgrade to Android 14. However, this won't apply to devices launching with Android 14 pre-installed.
 
-13. Only share certain photos and videos
-On Android 13 and earlier, if an app asks for permission to access your photos and videos, you can either say “yes” or “no.” With Android 14, you have a bit more control. Now, you’ll be able to allow apps to have access to some photos and videos.
+### 13. Only share certain photos and videos
 
-14. Enhanced PIN privacy and optional removal of ‘OK’ button
-In Android Settings, you’ll be able to turn off animations when you enter your PIN. This will make it trickier for “shoulder surfers” to see you enter your PIN and memorize it. This small change could be the difference between someone being able to access your phone or not. As of now, this feature is set to “off” by default.
+On Android 14, when an app requests permission to access your photos and videos, you can now grant access selectively. Instead of a simple "yes" or "no," you have the option to allow apps access to specific photos and videos.
 
-Likewise, Android 14 removes the need to hit an “OK” button after entering your PIN. Instead, you can just enter the number, and your phone will unlock. Note that this will only work if your PIN is six digits or more. If your PIN is six digits or more, it will automatically turn the feature on. If you want the “OK” button back, though, you can manually institute it.
+### 14. Enhanced PIN privacy and optional removal of ‘OK’ button
 
-15. Data sharing updates
-Let’s say you install an app on Monday. You accept the permissions and privacy policies for that app. Then, on Tuesday, the app changes the terms of those policies. Up until now, you wouldn’t know about this unless the company contacted you directly. That will change with Android 14, as you’ll now get a pop-up telling you about any changes that have happened with any particular app.
+In Android Settings, you can now disable animations when entering your PIN, making it more challenging for onlookers to observe and remember your PIN. This minor adjustment could enhance the security of your phone. Currently, this feature is turned off by default.
 
-16. Other security-related changes
-Google is also fighting malware and exploits by making tweaks to the intents system and dynamic code loading. Neither of these features is user-facing, but they should still give defense in depth when it comes to malware and vulnerabilities. Passkey support is also enhanced with Android 14, moving us closer to a password-less future.
+Additionally, Android 14 eliminates the need to press an "OK" button after entering your PIN. For PINs with six digits or more, your phone will unlock directly after entering the number. If you prefer the "OK" button, you can manually enable it.
 
-17. Cross-device improvements for developers
-Android has been making a cross-device play for years now, and Google is continuing this push in Android 14. This time, we’re getting developer-focused additions such as window size classes and sliding pane layout so apps can more effectively adapt to different screens.
+### 15. Data sharing updates
 
-Finally, Google says it’s offering a preview of its cross-device SDK so developers can more easily build apps that run across different devices and form factors.
+Suppose you install an app on Monday, accepting its permissions and privacy policies. Previously, if the app altered these terms on Tuesday, you wouldn't be informed unless the company reached out to you. With Android 14, you'll receive a pop-up notifying you of any changes made by a specific app.
 
-18. Integrated Health Connect
-The Health Connect app is effectively a hub to collect health data from your various fitness and health apps, and it indeed supports health/fitness data from big-name players like Samsung, Fitbit, and Peloton.
+### 16. Other security-related changes
 
-At the moment, this is still a downloadable app. However, with the launch of Android 14 beta 2, Google confirmed Health Connect will now come with Android out-of-the-box. This means you won’t need to install it manually, and updates will come automatically.
+Google is improving security in Android 14 by making changes to the intents system and dynamic code loading to combat malware and exploits. Although these features are not directly visible to users, they provide additional layers of defense against potential threats. Additionally, passkey support is strengthened in Android 14, contributing to progress in moving towards a password-less future.
 
-19. Custom lock screen
-You can already customize your home screen with widgets, wallpapers, icon packs, etc. The lock screen, however, has been far less customizable. That changes with Android 14, as you’ll be able to customize all sorts of aspects of the lock screen. Google demonstrated custom lock screens at Google I/O 2o23 and officially rolled it out to users with the third Android 14 beta.
+### 17. Cross-device improvements for developers
 
-20. Custom wallpapers
-At Google I/O 2023, the company rolled out not one, not two, but three new ways to create custom wallpapers. The first creates an artificial parallax effect from your own images. On stage, David Burke showed how this works with a picture of a child. Next, he showed off a new Emoji wallpaper creator (as seen above). You select the Emoji you like, select some colors, and then you get a fun, colorful layout of cartoons. Finally, Burke demonstrated a generative AI system for creating wallpaper images from text prompts. The first two systems will land with Android 14’s stable debut, but the generative AI system will roll out sometime later.
+In Android 14, Google continues its effort to make apps work seamlessly across various devices. Developers will benefit from new features like window size classes and sliding pane layout, enabling better adaptation to different screen sizes. Google is also providing a preview of its cross-device SDK, making it easier for developers to create apps that run smoothly across various devices and form factors.
 
-21. Smaller confirmed updates
-Android 14 will now support lossless audio when using wired headphones.
-Support for 10-bit HDR (aka Ultra HDR) is on the way, allowing it to retain more information from the sensor when taking photos and opening the door for more vibrant colors and greater contrast.
-The Camera2 and CameraX extensions will see updates, allowing apps that use them to handle longer processing times. This will help improve use cases like low-light photography that rely on compute-intensive algorithms.
-Android 14 will let enterprise and government users restrict a device’s ability to fall back to the insecure 2G standard.
-Google is also letting users disable support for so-called “null-ciphered” cellular connections in Android. In other words, users can choose to only use encrypted cellular connections.
-See about Android 14 features in this video: Android 14 features
+### 18. Integrated Health Connect
+
+Android 14 includes the Health Connect app, serving as a central hub to gather health data from different fitness and health apps, including major brands like Samsung, Fitbit, and Peloton. Unlike before, Health Connect now comes pre-installed with Android, eliminating the need for manual installation and ensuring automatic updates.
+
+### 19. Custom lock screen
+
+In Android 14, customization extends to the lock screen, allowing users to personalize various elements. This enhancement, showcased at Google I/O 2023, was officially introduced to users with the third Android 14 beta.
+
+### 20. Custom wallpapers
+
+At Google I/O 2023, three new methods for crafting custom wallpapers were introduced. The first adds a simulated parallax effect to personal images, demonstrated with a child's photo by David Burke. Another option includes an Emoji wallpaper creator where users pick their preferred Emoji, choose colors, and generate a vibrant layout of cartoons. Lastly, a generative AI system for crafting wallpaper images based on text prompts was showcased, but it will be introduced at a later date, while the first two will be available with Android 14's stable release.
+
+### 21. Smaller confirmed updates
+
+Android 14 will enhance audio quality with support for lossless audio on wired headphones. The introduction of 10-bit HDR (Ultra HDR) will capture more details in photos, offering vibrant colors and better contrast. Camera2 and CameraX extensions will receive updates, aiding apps with longer processing times, especially in low-light photography. The update allows enterprise and government users to limit devices from falling back to the insecure 2G standard. Additionally, users can opt to disable support for "null-ciphered" cellular connections, ensuring the use of encrypted cellular connections only.
