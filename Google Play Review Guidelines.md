@@ -1,17 +1,22 @@
-1. To publish an app publicly to the Google Workspace Marketplace, Google reviews your app and its listing to make sure they meet Google's design, content, and style guidelines.
-2. Common reasons an app doesn't pass review
-OAuth verification:
-Incorrect OAuth consent screen set up. For example, the user type is set to Internal or the publishing status is set to Testing.
-The app didn't complete the OAuth verification.
-App listing issues:
-Inappropriate use of Google's trademarks in the app name, logo, or app descriptions. For guidance, visit the Google Workspace Marketplace branding guidelines.
-Links don't work or point to the incorrect information. For example, a link for a privacy policy points to a developer support page.
-Screenshots and images are of low quality, or don't accurately represent app functionality.
-App readiness:
-The app is still being tested and not ready for the public.
-The app has bugs or is not fully functional.
-Review criteria
-Before you submit your app for review, make sure your app meets all requirements and complies with the Google Workspace Marketplace program policies.
+## 1. To share your app on the Google Workspace Marketplace, Google checks your app and its details to ensure they follow Google's guidelines for design, content, and style.
+## 2. Common reasons why an application fails review
+   
+__OAuth Verification:__
+- Incorrect setup of OAuth consent screen, like the user type set to Internal or publishing status set to Testing.
+- Failure to complete OAuth verification.
 
-Requirements for all apps
-Requirements for specific app integrations
+__App Listing Problems:__
+- Inappropriate use of Google's trademarks in the app name, logo, or descriptions. Refer to Google Workspace Marketplace branding guidelines for guidance.
+- Non-functional or incorrect links, such as a privacy policy link directing to a developer support page.
+- Low-quality screenshots or images that don't accurately depict app functionality.
+
+__App Readiness:__
+- App still in testing and not ready for the public.
+- App contains bugs or lacks full functionality.
+
+__Review Criteria:__
+Before submitting your app, ensure it meets all requirements and adheres to Google Workspace Marketplace program policies.
+
+__Requirements:__
+- General app requirements
+- Specific requirements for app integrations
