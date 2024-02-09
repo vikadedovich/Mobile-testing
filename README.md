@@ -12,9 +12,9 @@
 
 ## 6. [Mobile application verification checklist]()
 
-## 7. [Smoke checklist of Todolist]()
+## 7. [Smoke checklist of Todolist](https://docs.google.com/spreadsheets/d/1M6RKbDgF5O6cFehpCBr9M_wZkGl9gmE_s6rfJI_CTUA/edit?usp=sharing)
 
-## 8. [Regression checklist of Todolist]()
+## 8. [Regression checklist of Todolist](https://docs.google.com/spreadsheets/d/1Rlu-zatBnR98fELRRhm6YN0wlp2hMWMXG5aDJWQKEMk/edit?usp=sharing)
 
-## 9. [End-to-End checklist of Todolist]()
+## 9. [End-to-End checklist of Todolist](https://docs.google.com/spreadsheets/d/1Ly8wHBL470M_5Mf7rIfY3yNm8c_WpaZ6Oa5hzrPK9Ws/edit?usp=sharing)
 
