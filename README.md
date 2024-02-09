@@ -8,7 +8,7 @@
 
 ## 4. [ADB_HW](https://drive.google.com/file/d/1qEXdQJpmkxTxg6q2hB6fj-7NtIoHFXI1/view?usp=sharing)
 
-## 5. [Checklist of mobile testing features]()
+## 5. [Checklist of mobile testing features](https://docs.google.com/spreadsheets/d/1EV5wJ6XXgN3306NT5bHjMmAHRV5edfBQOlldpSWezoM/edit?usp=sharing)
 
 ## 6. [Mobile application verification checklist]()
 
@@ -17,4 +17,8 @@
 ## 8. [Regression checklist of Todolist](https://docs.google.com/spreadsheets/d/1Rlu-zatBnR98fELRRhm6YN0wlp2hMWMXG5aDJWQKEMk/edit?usp=sharing)
 
 ## 9. [End-to-End checklist of Todolist](https://docs.google.com/spreadsheets/d/1Ly8wHBL470M_5Mf7rIfY3yNm8c_WpaZ6Oa5hzrPK9Ws/edit?usp=sharing)
+
+## 10. [Charles HW](https://drive.google.com/file/d/1P0ALLCZ24FpXk1r6ATb4s2VKNiBTW7Ub/view?usp=sharing)
+
+
 
