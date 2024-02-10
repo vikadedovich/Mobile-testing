@@ -8,9 +8,9 @@
 
 ## 4. [ADB_HW](https://drive.google.com/file/d/1qEXdQJpmkxTxg6q2hB6fj-7NtIoHFXI1/view?usp=sharing)
 
-## 5. [Checklist of mobile testing features](https://docs.google.com/spreadsheets/d/1EV5wJ6XXgN3306NT5bHjMmAHRV5edfBQOlldpSWezoM/edit?usp=sharing)
+## 5. [Checklist of mobile testing features](https://docs.google.com/spreadsheets/d/1d-buWYEV-zJZIb8ZlJEXto8rXni3V4BuHWewRy3Vfr4/edit?usp=sharing)
 
-## 6. [Mobile application verification checklist]()
+## 6. [Mobile application verification checklist](https://docs.google.com/spreadsheets/d/1EV5wJ6XXgN3306NT5bHjMmAHRV5edfBQOlldpSWezoM/edit?usp=sharing)
 
 ## 7. [Smoke checklist of Todolist](https://docs.google.com/spreadsheets/d/1M6RKbDgF5O6cFehpCBr9M_wZkGl9gmE_s6rfJI_CTUA/edit?usp=sharing)
 
