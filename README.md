@@ -1,8 +1,12 @@
 # Mobile testing HW
 
-## 1. [Building an application in Android Studio](https://drive.google.com/file/d/1rM2DvAyBJ9gNAwTAyFhefDsW-4et3cM6/view?usp=sharing)
+## 1. [Building an application in Android Studio video](https://drive.google.com/file/d/1rM2DvAyBJ9gNAwTAyFhefDsW-4et3cM6/view?usp=sharing)
 
-## 2. [Building an application in Xcode](https://drive.google.com/file/d/1UJBPIX2vN3RQyOnY6xH-xj-hW4azMC1x/view?usp=sharing)
+##    [Work in Android Studio](https://drive.google.com/file/d/1C4f7Shl5Ebx3qi-XRm8I1y8kn-0KmNw4/view?usp=sharing)
+
+## 2. [Building an application in Xcode video](https://drive.google.com/file/d/1UJBPIX2vN3RQyOnY6xH-xj-hW4azMC1x/view?usp=sharing)
+
+##    [Work in Xcode](https://drive.google.com/file/d/1YwRJykwAfqkrOg-f2Pvq15lpqDrcqkiI/view?usp=sharing)
 
 ## 3. [Logs of Todolist in Android Studio](https://drive.google.com/file/d/1OGsS2DgdK6mtp6FqxxRF92WrR8xF-mgt/view?usp=sharing)
 
